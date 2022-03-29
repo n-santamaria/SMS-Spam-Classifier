@@ -4,6 +4,7 @@ Using NLP pre-processing techniques and ML NaiveBayes classifier we create a mod
 
 
 ### NLP Pre-Processing Techniques used:-
+- Tokenization
 - Stemming
 - Lemmatization
 - Stop Words
@@ -13,6 +14,10 @@ Using NLP pre-processing techniques and ML NaiveBayes classifier we create a mod
 ### Algoritm for model creation:-
 - Naive Bayes Classification
 
+
+### Model evaluation:-
+- Confusion matrix
+- Accuracy score
 
 ### Accuracy score:-
 - 95+
